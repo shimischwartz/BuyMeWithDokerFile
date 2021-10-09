@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<buy_me_website>
+  <browser_type>chrome</browser_type>
+  <url>https://buyme.co.il</url>
+  <excepted_title>BUYME אתר המתנות והחוויות הגדול בישראל | Gift Card</excepted_title>
+  <first_name>Shimon</first_name>
+  <email>S1.h2781@gmail.com</email>
+  <password>S1.h2781@gmail.com</password>
+  <password_confirm>S1.h2781@gmail.com</password_confirm>
+  <subscribed_name>Shimon</subscribed_name>
+  <subscribed_email>S1.h2781@gmail.com</subscribed_email>
+</buy_me_website>
